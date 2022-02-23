@@ -8,13 +8,17 @@ Britney2000 is a robot that will be able to map its surroundings, avoid obstacle
 - Motor Drive Board (4 motor, 9 servos Moebius Drive Board)
 - Lidar
 - Raspberry Pi 3B+
+- MPU-9150
 
 For full specs refer to: 
 https://www.aliexpress.com/item/4001192778332.html?spm=a2g0o.store_pc_allProduct.8148356.66.40ea5c92ChRJ9x
-<img width="426" alt="britney2000" src="https://user-images.githubusercontent.com/10591847/155256490-ec4ecbfe-62fb-44a1-8eff-c07f70f20846.png">
+<img width="500" alt="britney2000" src="https://user-images.githubusercontent.com/10591847/155256490-ec4ecbfe-62fb-44a1-8eff-c07f70f20846.png">
 
-Moebius Drive Board and Rasberry Pi 
-![inside brit1](https://user-images.githubusercontent.com/10591847/155266500-e72316d7-ba92-4454-93ca-f895a0c0cab7.jpg)
+Mega2560 with Moebius Drive Board and MPU-9150 mounted; Rasberry Pi 3B+
+
+![inside brit 3](https://user-images.githubusercontent.com/10591847/155269576-a55db2f9-f9cb-4f3a-8aeb-abd125780b83.jpg)
+
 
 Connection to Lidar and Mobeius Drive Board, ROS, Rasberry Pi Connection
 ![inside brit 2](https://user-images.githubusercontent.com/10591847/155266551-163b9f19-99cd-4401-8c30-462aad622c3c.jpg)
+
